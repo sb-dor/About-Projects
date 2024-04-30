@@ -2,7 +2,7 @@
 
 Flutter + Laravel
 
-[Avera Mobile POS] System is designed to empower businesses of all sizes, from small boutiques to
+**Avera Mobile POS** System is designed to empower businesses of all sizes, from small boutiques to
 large retail chains. With its robust features, intuitive interface, and flexibility, it's the
 perfect solution for stores and warehouses operations and taking business to the next level.
 
@@ -33,7 +33,7 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.po
 
 Flutter + Laravel
 
-[PizzaHouse.tj] revolutionizes the way you order pizza, bringing convenience and deliciousness right
+**PizzaHouse.tj** revolutionizes the way you order pizza, bringing convenience and deliciousness right
 to your fingertips. With our user-friendly interface and extensive menu options, satisfying your
 pizza cravings has never been easier.
 
