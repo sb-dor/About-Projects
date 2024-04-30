@@ -33,7 +33,8 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.po
 
 Flutter + Laravel
 
-**PizzaHouse.tj** revolutionizes the way you order pizza, bringing convenience and deliciousness right
+**PizzaHouse.tj** revolutionizes the way you order pizza, bringing convenience and deliciousness
+right
 to your fingertips. With our user-friendly interface and extensive menu options, satisfying your
 pizza cravings has never been easier.
 
@@ -52,4 +53,44 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.pi
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pizza_house/Screenshot_2024-04-30-05-51-55-260_tj.avera.pizzahouse.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pizza_house/Screenshot_2024-04-30-05-52-26-656_tj.avera.pizzahouse.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pizza_house/Screenshot_2024-04-30-05-52-33-558_tj.avera.pizzahouse.jpg" width="200" />
+</p>
+
+# FTube
+
+_Own project
+
+FTube is a versatile Flutter application that allows users to watch, download videos, and extract
+audios from videos effortlessly. With its intuitive interface and powerful features, FTube
+revolutionizes your video streaming and downloading experience.
+
+## Features
+
+- **Video Downloading**: FTube provides to download any video or video's audio from YouTube,
+  with just a few taps.
+- **Audio Extraction**: Extract audio tracks from videos and save them as MP3.
+- **Multiple Resolutions**: Choose from a range of video resolutions to ensure optimal viewing
+  quality or save storage space.
+- **Customizable Downloads**: Personalize your download settings to suit your preferences, including
+  download location, video quality, and more.
+- **User-Friendly Interface**: Enjoy a clean and intuitive user interface designed to enhance your
+  navigation and usability experience.
+- **Secure and Reliable**: Rest assured that your downloads are safe and secure, with FTube
+  prioritizing user privacy and data protection.
+
+_Take a look to the app
+on my [GitHub Page](https://github.com/sb-dor/FTube---releases)_
+
+_If you want to download the lates version of the app take a look
+this [link](https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/app-release.apk)_
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114456.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114547.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114712.png" width="200" />
+  <img src="https://github.com/sb-dor/About-Projects/blob/master/assets/ftube/Screenshot_20240317_114652.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114808.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114848.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114951.png" width="200" />
 </p>
