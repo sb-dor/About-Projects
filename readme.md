@@ -29,6 +29,8 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.po
   <img src="https://github.com/sb-dor/About-Projects/blob/master/assets/avera_pos_mobile/Screenshot_2024-04-30-05-23-57-118_tj.avera.posmobile.jpg" width="200" />
 </p>
 
+-----
+
 # PizzaHouse.tj
 
 Flutter + Laravel
@@ -54,6 +56,8 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.pi
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pizza_house/Screenshot_2024-04-30-05-52-26-656_tj.avera.pizzahouse.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pizza_house/Screenshot_2024-04-30-05-52-33-558_tj.avera.pizzahouse.jpg" width="200" />
 </p>
+
+-----
 
 # FTube
 
@@ -92,6 +96,8 @@ this [link](https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114848.png" width="200" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114951.png" width="200" />
 </p>
+
+-----
 
 # Zudras
 
