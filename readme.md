@@ -92,3 +92,27 @@ this [link](https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114848.png" width="200" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ftube/Screenshot_20240317_114951.png" width="200" />
 </p>
+
+# Zudras
+
+##### Participated in the development of the application!
+
+The grocery ordering app provides an easy-to-use interface for purchasing essential items. It offers
+users a wide range of products to browse and order. Customers can personalize their orders and
+choose a convenient delivery time. Thanks to available promotions and discounts, users can save on
+purchases. Overall, it is a convenient solution for hassle-free grocery shopping.
+
+_Take a look to the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.estore)_
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras1.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras2.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras3.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras4.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras5.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras6.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/zudras.tj/zudras7.jpg" width="200" />
+</p>
