@@ -61,7 +61,7 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.pi
 
 # FTube
 
-Own project
+#### Own project
 
 FTube is a versatile Flutter application that allows users to watch, download videos, and extract
 audios from videos effortlessly. With its intuitive interface and powerful features, FTube
@@ -101,7 +101,7 @@ this [link](https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/
 
 # Zudras
 
-##### Participated in the development of the application!
+#### Participated in the development of the application!
 
 The grocery ordering app provides an easy-to-use interface for purchasing essential items. It offers
 users a wide range of products to browse and order. Customers can personalize their orders and
