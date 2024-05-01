@@ -1,6 +1,6 @@
 # Avera POS Mobile
 
-Flutter + Laravel
+Flutter + Laravel (including Admin app with Laravel)
 
 **Avera Mobile POS** System is designed to empower businesses of all sizes, from small boutiques to
 large retail chains. With its robust features, intuitive interface, and flexibility, it's the
@@ -57,7 +57,7 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.pi
 
 # FTube
 
-_Own project
+Own project
 
 FTube is a versatile Flutter application that allows users to watch, download videos, and extract
 audios from videos effortlessly. With its intuitive interface and powerful features, FTube
@@ -74,13 +74,11 @@ revolutionizes your video streaming and downloading experience.
   download location, video quality, and more.
 - **User-Friendly Interface**: Enjoy a clean and intuitive user interface designed to enhance your
   navigation and usability experience.
-- **Secure and Reliable**: Rest assured that your downloads are safe and secure, with FTube
-  prioritizing user privacy and data protection.
 
-_Take a look to the app
+_Take a look to the app's releases
 on my [GitHub Page](https://github.com/sb-dor/FTube---releases)_
 
-_If you want to download the lates version of the app take a look
+_If you want to download the latest version of the app take a look
 this [link](https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/app-release.apk)_
 
 ## Screenshots
