@@ -15,6 +15,7 @@ perfect solution for stores and warehouses operations and taking business to the
 
 _Take a look to the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.posmobile)_
+on [App Store](https://apps.apple.com/tj/app/avera-pos/id6494738399)_
 
 ## Screenshots
 
@@ -42,6 +43,7 @@ pizza cravings has never been easier.
 
 _Take a look to the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.pizzahouse)_
+on [App Store](https://apps.apple.com/tj/app/pizzahouse-tj/id6447666135)_
 
 ## Screenshots
 
@@ -127,6 +129,7 @@ purchases. Overall, it is a convenient solution for hassle-free grocery shopping
 
 _Take a look to the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.estore)_
+on [App Store](https://apps.apple.com/tj/app/zudras-tj/id6446891667)_
 
 ## Screenshots
 
