@@ -75,6 +75,23 @@ listings, and make informed decisions—all in one intuitive app.
 https://github.com/user-attachments/assets/276551eb-c524-4e28-bf8b-4d0e4d1a82e7
 <p align="center">
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.13.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.46.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.42.24.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.42.35.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.22.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.37.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.57.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.08.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.32.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.53.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.46.22.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.46.27.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.15.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.46.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.56.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.50.31.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.50.49.png" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 10.13.30.png" width="200" />
 </p>
 
 -----
