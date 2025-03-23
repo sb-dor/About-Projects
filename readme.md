@@ -119,10 +119,10 @@ revolutionizes your video streaming and downloading experience.
   navigation and usability experience.
 
 _Take a look to the app's releases
-on my [GitHub Page](https://github.com/sb-dor/FTube---releases)_
+on my [GitHub Page](https://github.com/sb-dor/FTube)
 
 _If you want to download the latest version of the app take a look
-this [link](https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/app-release.apk)_
+this [link](https://github.com/sb-dor/FTube/releases)
 
 ## Screenshots
 
