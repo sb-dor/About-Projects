@@ -59,6 +59,22 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.pi
 
 -----
 
+Flutter + Laravel
+
+**Drom.tj** transforms the car-buying experience, making it seamless and hassle-free.
+With powerful search filters, side-by-side car comparisons, and fair price evaluations, finding the
+perfect vehicle has never been easier. Effortlessly update your contact details, explore detailed
+listings, and make informed decisions—all in one intuitive app.
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screen Recording - iPhone 16 - 2025-03-23 at 09.48.49.mp4" width="200" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.13.png" width="200" />
+</p>
+
+-----
+
 # FTube
 
 #### Own project
