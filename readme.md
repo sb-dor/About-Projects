@@ -73,6 +73,7 @@ listings, and make informed decisions—all in one intuitive app.
 ## Screenshots
 
 <p align="center">
+  https://github.com/user-attachments/assets/276551eb-c524-4e28-bf8b-4d0e4d1a82e7
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.13.png" width="200" />
 </p>
 
