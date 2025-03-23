@@ -112,7 +112,6 @@ is a prototype intended for the development of real, fully-functional ecommerce 
 ## Screenshots
 
 <p align="center">
-  <p align="center">
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.34.png" width="150" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.07.png" width="150" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.20.png" width="150" />
@@ -130,6 +129,47 @@ is a prototype intended for the development of real, fully-functional ecommerce 
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.30.png" width="150" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.42.png" width="150" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.24.56.png" width="150" />
+</p>
+
+-----
+
+# Ecommerce App
+
+Flutter + Laravel
+
+**Ecommerce App** offers a seamless shopping experience, allowing users to browse, search, and
+purchase products with ease. Featuring a clean, intuitive interface, it lets customers view detailed
+product descriptions, read reviews, and make secure payments. With personalized recommendations and
+easy navigation, the app ensures an enjoyable shopping journey. The app also supports real-time order
+tracking and provides notifications for special deals and promotions, ensuring users never miss out on
+the latest offers. Whether shopping for essentials or discovering new products, Ecommerce App brings
+everything you need right to your fingertips. This version is a draft prototype intended for the
+development of real, fully-functional ecommerce applications.
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.25.31.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.25.52.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.26.06.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.26.15.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.26.21.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.26.32.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.26.53.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.27.04.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.27.07.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.27.20.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.27.25.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.27.31.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.28.09.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.28.52.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.29.07.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.29.48.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.29.54.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.30.09.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.30.17.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.30.21.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_app/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.30.36.png" width="150" />
 </p>
 
 -----
