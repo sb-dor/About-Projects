@@ -113,23 +113,23 @@ is a prototype intended for the development of real, fully-functional ecommerce 
 
 <p align="center">
   <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.34.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.07.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.20.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.10.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.18.07.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.17.04.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.17.32.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.16.37.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.16.31.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.30.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.35.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.09.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.15.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.25.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.30.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.42.png" width="100" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.24.56.png" width="100" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.34.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.07.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.20.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.10.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.18.07.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.17.04.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.17.32.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.16.37.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.16.31.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.19.30.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.20.35.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.09.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.15.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.25.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.30.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.21.42.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/ecommerce_admin/Simulator Screenshot - iPhone 16 - 2025-03-23 at 13.24.56.png" width="150" />
 </p>
 
 -----
