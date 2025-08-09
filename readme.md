@@ -34,7 +34,7 @@ on [App Store](https://apps.apple.com/tj/app/avera-pos/id6494738399)
 
 # TajMix
 
-Flutter + Laravel(not whole project)
+Flutter + Laravel (partly)
 
 **TajMix** transforms the car-buying experience, making it seamless and hassle-free.
 With powerful search filters, side-by-side car comparisons, and fair price evaluations, finding the
