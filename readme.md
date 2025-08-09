@@ -32,6 +32,48 @@ on [App Store](https://apps.apple.com/tj/app/avera-pos/id6494738399)
 
 -----
 
+# TajMix
+
+Flutter + Laravel(not whole project)
+
+**TajMix** transforms the car-buying experience, making it seamless and hassle-free.
+With powerful search filters, side-by-side car comparisons, and fair price evaluations, finding the
+perfect vehicle has never been easier. Effortlessly update your contact details, explore detailed
+listings, and make informed decisions—all in one intuitive app.
+
+_Take a look to the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.tajmix)_
+on [App Store](https://apps.apple.com/ru/app/tajmix/id6748384879?platform=iphone)
+
+## Screenshots
+
+> **Info:** Test project images were used because the real ones contain pictures of actual cars and
+> license plates, which cannot be used due to privacy restrictions.
+
+https://github.com/user-attachments/assets/276551eb-c524-4e28-bf8b-4d0e4d1a82e7
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.13.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.46.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.42.24.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.42.35.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.22.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.37.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.57.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.08.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.32.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.53.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.46.22.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.46.27.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 10.13.30.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.15.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.46.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.56.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.50.31.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.50.49.png" width="150" />
+</p>
+
+-----
+
 # PizzaHouse.tj
 
 Flutter + Laravel
@@ -61,48 +103,12 @@ on [App Store](https://apps.apple.com/tj/app/pizzahouse-tj/id6447666135)
 
 -----
 
-# Drom.tj
-
-Flutter + Laravel
-
-**Drom.tj** transforms the car-buying experience, making it seamless and hassle-free.
-With powerful search filters, side-by-side car comparisons, and fair price evaluations, finding the
-perfect vehicle has never been easier. Effortlessly update your contact details, explore detailed
-listings, and make informed decisions—all in one intuitive app.
-
-#### The app hasn’t been released yet, which is why I’ve provided all the pictures.
-
-## Screenshots
-
-https://github.com/user-attachments/assets/276551eb-c524-4e28-bf8b-4d0e4d1a82e7
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.13.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.41.46.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.42.24.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.42.35.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.22.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.37.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.44.57.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.08.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.32.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.45.53.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.46.22.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.46.27.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 10.13.30.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.15.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.46.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.49.56.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.50.31.png" width="150" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/drom.tj/Simulator Screenshot - iPhone 16 - 2025-03-23 at 09.50.49.png" width="150" />
-</p>
-
------
-
 # Ecommerce Admin App
 
 Flutter + Laravel
 
-**Ecommerce Admin App** is a draft tool designed to manage the backend operations of the Ecommerce App.
+**Ecommerce Admin App** is a draft tool designed to manage the backend operations of the Ecommerce
+App.
 It offers a comprehensive solution for overseeing product listings, tracking orders, and managing
 customer information. With features like real-time inventory updates, customizable product pages,
 and detailed sales analytics, this app streamlines ecommerce operations. It also supports bulk
@@ -140,8 +146,10 @@ Flutter + Laravel
 **Ecommerce App** offers a seamless shopping experience, allowing users to browse, search, and
 purchase products with ease. Featuring a clean, intuitive interface, it lets customers view detailed
 product descriptions, read reviews, and make secure payments. With personalized recommendations and
-easy navigation, the app ensures an enjoyable shopping journey. The app also supports real-time order
-tracking and provides notifications for special deals and promotions, ensuring users never miss out on
+easy navigation, the app ensures an enjoyable shopping journey. The app also supports real-time
+order
+tracking and provides notifications for special deals and promotions, ensuring users never miss out
+on
 the latest offers. Whether shopping for essentials or discovering new products, Ecommerce App brings
 everything you need right to your fingertips. This version is a draft prototype intended for the
 development of real, fully-functional ecommerce applications.
