@@ -114,7 +114,14 @@ your next home has never been easier.
 ## Screenshots
 
 <p align="center">
-  <img src="" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.25.51.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.25.56.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.19.12.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.19.31.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.20.15.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.26.07.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.27.30.png" width="150" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/komnata/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-11-30%20at%2012.27.41.png" width="150" />
 </p>
 
 -----
