@@ -1,11 +1,14 @@
 # Avera POS Cloud
 
-Flutter + Laravel (including Admin app with Laravel)
+Flutter
 
-**Avera POS Cloud** is the cross-platform companion to Avera Mobile POS, giving businesses full
-control over their sales, inventory, and reporting from any device. Available on Web, Windows,
-macOS, Android, and iOS, it lets store owners and staff manage operations seamlessly whether
-they're behind a desktop, on a tablet, or on the move.
+**Avera POS Cloud** is the replacement for Avera POS Mobile, which struggled to gain traction with
+businesses due to bugs stemming from its earlier, less experienced development. Avera POS Cloud
+gives businesses full control over their sales, inventory, and reporting from any device. Available
+on Web, Windows, macOS, Android, and iOS, it lets store owners and staff manage operations
+seamlessly whether they're behind a desktop, on a tablet, or on the move. The web experience is a
+separate app built with Nuxt + TypeScript, giving businesses a dedicated, fast interface for
+managing their operations from the browser.
 
 _Take a look to the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.web&hl=ru)_
