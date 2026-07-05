@@ -18,29 +18,29 @@ companies a single tool to run their business from any device.
 ### Web
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/web/web_1.png" width="150" alt="Web" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/web/web_2.png" width="150" alt="Web" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/web/web_1.png" width="300" alt="Web" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/web/web_2.png" width="300" alt="Web" />
 </p>
 
 ### Windows
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/windows/windows_1.png" width="150" alt="Windows" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/windows/windows_2.png" width="150" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/windows/windows_1.png" width="300" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/windows/windows_2.png" width="300" alt="Windows" />
 </p>
 
 ### macOS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/macos/macos_1.png" width="150" alt="macOS" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/macos/macos_2.png" width="150" alt="macOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/macos/macos_1.png" width="300" alt="macOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/macos/macos_2.png" width="300" alt="macOS" />
 </p>
 
 ### Linux
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/linux/linux_1.png" width="150" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/linux/linux_2.png" width="150" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/linux/linux_1.png" width="300" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/linux/linux_2.png" width="300" alt="Linux" />
 </p>
 
 ### Android
@@ -83,25 +83,25 @@ on [App Store](https://apps.apple.com/tj/app/avera-pos-cloud/id6757835809)
 ### Web
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/web/web_1.png" width="150" alt="Web" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/web/web_2.png" width="150" alt="Web" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/web/web_3.png" width="150" alt="Web" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/web/web_1.png" width="300" alt="Web" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/web/web_2.png" width="300" alt="Web" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/web/web_3.png" width="300" alt="Web" />
 </p>
 
 ### Windows
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/windows/windows_1.png" width="150" alt="Windows" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/windows/windows_2.png" width="150" alt="Windows" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/windows/windows_3.png" width="150" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/windows/windows_1.png" width="300" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/windows/windows_2.png" width="300" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/windows/windows_3.png" width="300" alt="Windows" />
 </p>
 
 ### macOS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/macos/macos_1.png" width="150" alt="macOS" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/macos/macos_2.png" width="150" alt="macOS" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/macos/macos_3.png" width="150" alt="macOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/macos/macos_1.png" width="300" alt="macOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/macos/macos_2.png" width="300" alt="macOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_cloud/desktop/macos/macos_3.png" width="300" alt="macOS" />
 </p>
 
 ### Android
