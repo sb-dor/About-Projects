@@ -1,3 +1,65 @@
+# Avera Сохтмон (Avera Construction)
+
+#### Has not released yet
+
+Flutter
+
+**Avera Сохтмон** is a CRM built specifically for construction businesses, helping them manage
+projects from planning to completion. It covers project tracking with budgets and completion
+progress, blueprints and unit types, buildings and construction stages, clients and a sales
+pipeline, contracts and document templates, and a full cashdesk for payments, transfers, and
+withdrawals. Available on Web, Windows, macOS, Linux, Android, and iOS, it gives construction
+companies a single tool to run their business from any device.
+
+## Screenshots
+
+> **Info:** Each screenshot below is labeled with the platform it was captured on.
+
+### Web
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/web/web_1.png" width="150" alt="Web" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/web/web_2.png" width="150" alt="Web" />
+</p>
+
+### Windows
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/windows/windows_1.png" width="150" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/windows/windows_2.png" width="150" alt="Windows" />
+</p>
+
+### macOS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/macos/macos_1.png" width="150" alt="macOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/macos/macos_2.png" width="150" alt="macOS" />
+</p>
+
+### Linux
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/linux/linux_1.png" width="150" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/desktop/linux/linux_2.png" width="150" alt="Linux" />
+</p>
+
+### Android
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/mobile/android/android_1.png" width="150" alt="Android" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/mobile/android/android_2.png" width="150" alt="Android" />
+</p>
+
+### iOS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/mobile/ios/ios_1.png" width="150" alt="iOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/mobile/ios/ios_2.png" width="150" alt="iOS" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_construction/mobile/ios/ios_3.png" width="150" alt="iOS" />
+</p>
+
+-----
+
 # Avera POS Cloud
 
 Flutter
