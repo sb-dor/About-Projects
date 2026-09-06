@@ -1,3 +1,34 @@
+# Avera POS Reports
+
+Flutter
+
+**Avera POS Reports** is an offline-first companion app for owners and managers using Avera POS.
+It keeps essential business data close at hand, with sales and revenue reports for custom periods,
+period-over-period comparisons, inventory levels and stock movement, staff and shift performance,
+and a dashboard of the most important figures. Reports remain available without an internet
+connection and synchronize with the Avera POS server when the device comes back online. The app is
+designed for shops, cafés, restaurants, and retail outlets and requires an active Avera POS account.
+
+_Take a look at the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.reports)_
+
+## Screenshots
+
+### Android — Portrait
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_01.webp" width="150" alt="Avera POS Reports revenue overview" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_02.webp" width="150" alt="Avera POS Reports suppliers directory" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_03.webp" width="150" alt="Avera POS Reports shift monitoring" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_04.webp" width="150" alt="Avera POS Reports cash desk overview" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_05.webp" width="150" alt="Avera POS Reports inventory levels" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_06.webp" width="150" alt="Avera POS Reports product search and scanner" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_07.webp" width="150" alt="Avera POS Reports top-selling products" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_08.webp" width="150" alt="Avera POS Reports receipts" />
+</p>
+
+-----
+
 # Avera Hotel CRM
 
 Flutter
