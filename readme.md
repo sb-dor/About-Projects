@@ -27,6 +27,19 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.re
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/screenshot_08.webp" width="150" alt="Avera POS Reports receipts" />
 </p>
 
+### Android — Tablet
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_01.webp" width="300" alt="Avera POS Reports tablet sales overview" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_02.webp" width="300" alt="Avera POS Reports tablet top-selling products" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_03.webp" width="300" alt="Avera POS Reports tablet inventory levels" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_04.webp" width="300" alt="Avera POS Reports tablet cash flow" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_05.webp" width="300" alt="Avera POS Reports tablet supplier balances" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_06.webp" width="300" alt="Avera POS Reports tablet settings and directories" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_07.webp" width="300" alt="Avera POS Reports tablet multi-store selector" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_pos_reports/tablet_08.webp" width="300" alt="Avera POS Reports tablet business dashboard" />
+</p>
+
 -----
 
 # Avera Hotel CRM
