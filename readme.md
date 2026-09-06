@@ -27,22 +27,9 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.ho
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_06.webp" width="150" alt="Avera Hotel CRM hotels, rooms, and room types" />
 </p>
 
-### Android — Landscape
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_07.webp" width="300" alt="Avera Hotel CRM guest database" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_08.webp" width="300" alt="Avera Hotel CRM room calendar" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_09.webp" width="300" alt="Avera Hotel CRM shift history" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_10.webp" width="300" alt="Avera Hotel CRM shift management" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_11.webp" width="300" alt="Avera Hotel CRM hotels, rooms, and room types" />
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_12.webp" width="300" alt="Avera Hotel CRM roles and permissions" />
-</p>
-
 -----
 
 # Avera Сохтмон (Avera Construction)
-
-#### Has not released yet
 
 Flutter
 
@@ -52,6 +39,9 @@ progress, blueprints and unit types, buildings and construction stages, clients 
 pipeline, contracts and document templates, and a full cashdesk for payments, transfers, and
 withdrawals. Available on Web, Windows, macOS, Linux, Android, and iOS, it gives construction
 companies a single tool to run their business from any device.
+
+_Take a look at the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.sokhtmon&hl=en)_
 
 ## Screenshots
 
