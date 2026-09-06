@@ -1,3 +1,45 @@
+# Avera Hotel CRM
+
+Flutter
+
+**Avera Hotel CRM** turns a phone or tablet into a complete hotel reception terminal for
+independent hotels and small chains. It connects directly to the hotel's Avera server, keeping
+reservations, check-ins, payments, and room availability synchronized with the front desk in real
+time. Staff can manage the full guest stay, scan passports and visas with OCR, use visual room and
+rate calendars, receive bookings through the Beds24 Channel Manager, run cash desk shifts and
+multicurrency payments, and monitor daily operations from anywhere. Role-based access and
+multi-property support give each employee the right tools while keeping every hotel's data
+separate.
+
+_Take a look at the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.hotel&hl=en)_
+
+## Screenshots
+
+### Android — Portrait
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_01.webp" width="150" alt="Avera Hotel CRM room calendar" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_02.webp" width="150" alt="Avera Hotel CRM shift management" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_03.webp" width="150" alt="Avera Hotel CRM accounts and balances" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_04.webp" width="150" alt="Avera Hotel CRM revenue and expenses" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_05.webp" width="150" alt="Avera Hotel CRM payments and refunds" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_06.webp" width="150" alt="Avera Hotel CRM hotels, rooms, and room types" />
+</p>
+
+### Android — Landscape
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_07.webp" width="300" alt="Avera Hotel CRM guest database" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_08.webp" width="300" alt="Avera Hotel CRM room calendar" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_09.webp" width="300" alt="Avera Hotel CRM shift history" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_10.webp" width="300" alt="Avera Hotel CRM shift management" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_11.webp" width="300" alt="Avera Hotel CRM hotels, rooms, and room types" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/avera_hotel/screenshot_12.webp" width="300" alt="Avera Hotel CRM roles and permissions" />
+</p>
+
+-----
+
 # Avera Сохтмон (Avera Construction)
 
 #### Has not released yet
