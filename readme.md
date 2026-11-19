@@ -1,3 +1,175 @@
+# Extracter: Audio to Text
+
+#### Own project · open source
+
+Flutter · whisper.cpp · FFmpeg · Drift
+
+**Extracter** turns audio and video recordings into text right on the device. Lectures, meetings,
+interviews, podcasts and voice notes are transcribed offline with OpenAI Whisper models
+(whisper.cpp), and FFmpeg takes the audio track from video files. Nothing is uploaded, there is no
+account, and the app keeps working in airplane mode once a speech model is downloaded.
+
+## Features
+
+- **Any format**: MP3, M4A, WAV, OGG, OPUS, FLAC, AAC, MP4, MOV, MKV, WEBM, AVI and more.
+- **100% offline and private**: speech recognition runs on the device.
+- **About 100 languages** with automatic language detection, plus translation into English.
+- **Live results** with progress for every file, and a **batch queue** for several files.
+- **Timestamps** for every sentence; copy as clean paragraphs or with timestamps.
+- **Export** to TXT, SRT or VTT subtitles.
+- **Full-text search** across all transcripts.
+- **Models from Tiny to Large v3 Turbo**: download once, switch any time, delete the ones you don't need.
+- Runs on **Android, iOS and macOS**.
+
+_Take a look at the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=com.bdaynabday.extracter)_
+and the source code on [GitHub](https://github.com/sb-dor/Extracter)
+
+## Screenshots
+
+### Android — Portrait
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/screenshot_01.webp" width="150" alt="Extracter transcribing an audio file" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/screenshot_02.webp" width="150" alt="Extracter speech models" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/screenshot_03.webp" width="150" alt="Extracter transcript history and search" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/screenshot_04.webp" width="150" alt="Extracter transcript with timestamps" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/screenshot_05.webp" width="150" alt="Extracter copy with or without timestamps" />
+</p>
+
+### Android — Tablet
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/tablet_01.webp" width="300" alt="Extracter tablet transcription queue" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/tablet_02.webp" width="300" alt="Extracter tablet history" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/tablet_03.webp" width="300" alt="Extracter tablet transcript view" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/tablet_04.webp" width="300" alt="Extracter tablet copy options" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/extracter/tablet_05.webp" width="300" alt="Extracter tablet speech models" />
+</p>
+
+-----
+
+# FAgent — Flutter Code Agent
+
+#### Own project · open source
+
+Flutter (macOS desktop) · Agent Client Protocol · MCP · Drift
+
+**FAgent** is an open-source desktop workspace for Flutter development with AI coding agents. It
+does not ship its own AI: it drives Claude Code, Codex or Gemini CLI over the Agent Client Protocol
+(ACP) and gives them what a Flutter project needs: the running app, the Dart tooling and built-in
+Flutter rules. Chat with the agent, run the app with hot reload, point at a widget and read or edit
+the code, all in one window.
+
+## Features
+
+- **Chat with your agent**: text, thinking, tool calls, the plan and changed files arrive live; a
+  Changes pane shows every change as a diff; permission requests in a dialog.
+- **Run the app**: devices, build modes, hot reload and hot restart, logs; send a build or runtime
+  error to the agent in one click.
+- **Widget picker**: click a widget in the running app and the chat gets its name, file and line,
+  ancestors and a screenshot.
+- **Code view**: explorer and editor with a Dart language server (completion, diagnostics, go to
+  definition, find references, format on save).
+- **17 built-in Flutter rules** (architecture, controllers, repositories, widgets, navigation,
+  security, testing and more), collected from the Flutter community and from leading Flutter
+  engineers, written into each project so agents build features the same way every time.
+- **New project wizard** that lays out a project following those rules.
+- The app's own MCP server and the Dart MCP server are connected to every session.
+- 160+ automated tests.
+
+_Take a look at the source code
+on [GitHub](https://github.com/sb-dor/FAgent)_
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/FAgent/main/docs/images/chat.png" width="300" alt="FAgent chat with the agent, plan and Changes pane" />
+  <img src="https://raw.githubusercontent.com/sb-dor/FAgent/main/docs/images/run.png" width="300" alt="FAgent Run tab with logs, hot reload and hot restart" />
+  <img src="https://raw.githubusercontent.com/sb-dor/FAgent/main/docs/images/code.png" width="300" alt="FAgent Code view with Dart analysis" />
+  <img src="https://raw.githubusercontent.com/sb-dor/FAgent/main/docs/images/rules.png" width="300" alt="FAgent built-in Flutter rules and skills" />
+  <img src="https://raw.githubusercontent.com/sb-dor/FAgent/main/docs/images/new-project.png" width="300" alt="FAgent new project wizard" />
+</p>
+
+-----
+
+# Packly — Travel Packing List
+
+#### Own project
+
+Flutter · AI (Google Gemini) · offline sync
+
+**Packly** keeps every packing list in one place, organized and synced across devices. Its newest
+feature is an **AI photo scan**: lay your things out, take one photo, and the app recognises the
+items, sorts them into categories and builds the packing list automatically. You choose what gets
+added.
+
+## Features
+
+- **Scan a photo, get a list**: AI finds the items in the photo and sorts them into categories.
+- **A list for every trip** with a destination and dates; active and archived trips are kept apart.
+- **Templates**: save any trip as a template or start from a ready-made one (weekend, beach,
+  business, winter).
+- **Categories with emoji**, quantities and drag-to-reorder.
+- **Import a list** pasted from notes or a chat; Packly sorts it into categories with a preview.
+- **Packing progress** down to the percentage.
+- **Share or print** a list, or save it as a PDF.
+- **Sign in with Google or email**; lists sync across devices and work **offline**, syncing when
+  back online.
+- Light and dark themes.
+
+_Take a look at the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=com.bdaynabday.packly)_
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/packly/screenshot_01.webp" width="150" alt="Packly add items from a photo" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/packly/screenshot_02.webp" width="150" alt="Packly AI-found items to review" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/packly/screenshot_03.webp" width="150" alt="Packly packing list by category" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/packly/screenshot_04.webp" width="150" alt="Packly all trips" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/packly/screenshot_05.webp" width="150" alt="Packly packing progress" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/packly/screenshot_06.webp" width="150" alt="Packly weekend trip list" />
+</p>
+
+-----
+
+# Pregnancy Tracker
+
+#### Own project
+
+Flutter · offline · English and Russian
+
+**Pregnancy Tracker** walks with the user through pregnancy one week at a time: how the baby is
+developing, changes in the body, and practical tips. Medical content follows WHO, NHS, ACOG, CDC
+and Ministry of Health sources. Everything stays on the phone: no account, no ads, no tracking.
+
+## Features
+
+- **Week by week**: baby development and size, body changes and tips, with guidance that follows
+  WHO, ACOG or the Russian Ministry of Health.
+- **Tools**: contraction timer, movement counting, symptoms, weight, notes, appointments and a
+  hospital bag checklist.
+- **Reminders** for appointments and weekly updates.
+- **Warning signs** on every week that mean the user should contact the care team.
+- **Private by design**: data stays on the device and can be exported at any time.
+- Available in **English and Russian**.
+
+_Take a look at the app
+on [Google Play Store](https://play.google.com/store/apps/details?id=com.bdaynabday.pregnancy)_
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pregnancy_tracker/screenshot_01.webp" width="150" alt="Pregnancy Tracker today screen" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pregnancy_tracker/screenshot_02.webp" width="150" alt="Pregnancy Tracker weeks list" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pregnancy_tracker/screenshot_03.webp" width="150" alt="Pregnancy Tracker week guidance" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pregnancy_tracker/screenshot_04.webp" width="150" alt="Pregnancy Tracker tools" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/pregnancy_tracker/screenshot_05.webp" width="150" alt="Pregnancy Tracker contraction timer" />
+</p>
+
+-----
+
 # Avera POS Reports
 
 Flutter
