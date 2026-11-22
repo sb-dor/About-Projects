@@ -38,12 +38,43 @@ review every change.
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/desktop_profit.webp" width="420" alt="Cafe POS profit report" />
 </p>
 
-### Tablets: kiosk, kitchen display, order board
+### Self-service kiosk (tablet)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/kiosk_menu.webp" width="280" alt="Cafe POS self-service kiosk menu" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kiosk_start.webp" width="280" alt="Cafe POS kiosk start screen" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kiosk_where.webp" width="280" alt="Cafe POS kiosk dine in or take away" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/kiosk_menu.webp" width="280" alt="Cafe POS kiosk menu" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kiosk_dish.webp" width="280" alt="Cafe POS kiosk dish with options" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kiosk_cart.webp" width="280" alt="Cafe POS kiosk cart with a promotion" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kiosk_loyalty.webp" width="280" alt="Cafe POS kiosk phone number for bonuses" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kiosk_done.webp" width="280" alt="Cafe POS kiosk order number and payment" />
+</p>
+
+### Kitchen display and order board (tablet)
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/kitchen_display.webp" width="280" alt="Cafe POS kitchen display" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_kitchen_history.webp" width="280" alt="Cafe POS kitchen display history" />
   <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/order_board.webp" width="280" alt="Cafe POS order board" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_board_qr.webp" width="280" alt="Cafe POS order board with payment QR codes" />
+</p>
+
+### Connecting a tablet to the venue server
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_pairing.webp" width="280" alt="Cafe POS tablet pairing" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/tablet_pairing_fingerprint.webp" width="280" alt="Cafe POS tablet pairing certificate fingerprint check" />
+</p>
+
+### Phone
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/phone_kiosk_start.webp" width="150" alt="Cafe POS phone kiosk start screen" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/phone_kiosk_menu.webp" width="150" alt="Cafe POS phone kiosk menu" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/phone_kiosk_dish.webp" width="150" alt="Cafe POS phone kiosk dish" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/phone_kiosk_cart.webp" width="150" alt="Cafe POS phone kiosk cart" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/phone_kiosk_done.webp" width="150" alt="Cafe POS phone kiosk order number" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/phone_pairing_code.webp" width="150" alt="Cafe POS phone pairing code" />
 </p>
 
 -----
