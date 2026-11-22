@@ -1,3 +1,53 @@
+# Cafe POS
+
+#### Own project · in development · source code is private
+
+Flutter (Windows, macOS, Android, iOS) · Dart server · Drift (SQLite) · WebSocket · control + freezed
+
+**Cafe POS** is a local system for cafés and quick-service restaurants that works without the
+internet. The venue's PC runs the database and a Dart server; tablets connect to it over the local
+Wi-Fi. Guests order on a self-service kiosk and pay at the cashier, the kitchen sees the order on its
+screen, an order board shows when it is ready, and the owner runs the menu, stock, money and reports
+from the staff app.
+
+## What it includes
+
+- **Staff app (Windows, macOS)**: sales and payments, stop-list, receipts and returns, cash accounts.
+- **Kiosk, kitchen display and order board** on Android and iOS tablets.
+- **Stock**: recipes, receipts, transfers, production, write-offs, stocktakes, shelf life and labels,
+  food cost, minimum stock and a "need to buy" list.
+- **Suppliers**: payments, advances, returns and supplier orders.
+- **Promotions and loyalty**: promo codes, discount reasons, customers, bonuses and levels.
+- **Staff**: clock in and out by PIN, timesheets, payroll, bonuses and penalties, tips.
+- **Reports**: profit, discounts, customers, stock reports and an "anomalies" report (cancellations,
+  refunds, large discounts).
+- **Operations**: HTTPS with certificate pinning between tablets and the server, licenses, backups,
+  updates, a Windows service and installer, error reports to Sentry.
+
+**How it is built:** a Dart pub workspace with 4 apps and 6 shared packages (core rules, API contract,
+API client, design system, licensing, telemetry); money is stored as integers; about 600 test files.
+I write the specs, plans and architecture rules, AI agents (Claude Code) write code against them, and I
+review every change.
+
+## Screenshots
+
+### Staff app (desktop)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/desktop_home.webp" width="420" alt="Cafe POS staff app home screen" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/desktop_profit.webp" width="420" alt="Cafe POS profit report" />
+</p>
+
+### Tablets: kiosk, kitchen display, order board
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/kiosk_menu.webp" width="280" alt="Cafe POS self-service kiosk menu" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/kitchen_display.webp" width="280" alt="Cafe POS kitchen display" />
+  <img src="https://raw.githubusercontent.com/sb-dor/About-Projects/master/assets/cafe_pos/order_board.webp" width="280" alt="Cafe POS order board" />
+</p>
+
+-----
+
 # Extracter: Audio to Text
 
 #### Own project · open source
