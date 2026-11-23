@@ -251,6 +251,28 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=com.bdaynab
 
 -----
 
+# My work at Avera Inc. (2022 – 2026)
+
+From February 2022 to November 2026 I was the main Flutter developer at Avera Inc. In the POS Cloud,
+Hotel CRM, Construction CRM and Doru24 repositories I authored about 97% of the commits (2,600+).
+I also wrote Laravel backends for POS Mobile, PizzaHouse.tj, Alshema and part of TajMix. The source
+code of these apps belongs to the company and is private; the sections below describe them.
+
+# Doru24 (Has't released yet)
+
+#### Flutter · Android and iOS · in development
+
+**Doru24** is a pharmacy marketplace made of two Flutter apps:
+
+- **Customer app:** browse medicines and compare prices across pharmacies without an account, then
+  sign in to order, upload prescription photos, pick a delivery address, track orders and leave
+  reviews.
+- **Pharmacy staff app:** an order queue with barcode-scan picking and courier assignment,
+  prescription checks for managers and owners, stock with expiry-date batches, product requests and
+  a daily dashboard. Employee, manager and owner roles; Russian, English and Tajik.
+
+-----
+
 # Avera POS Reports
 
 Flutter
@@ -303,10 +325,12 @@ Flutter
 independent hotels and small chains. It connects directly to the hotel's Avera server, keeping
 reservations, check-ins, payments, and room availability synchronized with the front desk in real
 time. Staff can manage the full guest stay, scan passports and visas with OCR, use visual room and
-rate calendars, receive bookings through the Beds24 Channel Manager, run cash desk shifts and
-multicurrency payments, and monitor daily operations from anywhere. Role-based access and
+rate calendars, run cash desk shifts and multicurrency payments, print documents from editable
+templates, and monitor daily operations from anywhere. Role-based access and
 multi-property support give each employee the right tools while keeping every hotel's data
 separate.
+
+The app has 101 feature modules and 218 test files.
 
 _Take a look at the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.hotel&hl=en)_
@@ -336,6 +360,11 @@ progress, blueprints and unit types, buildings and construction stages, clients 
 pipeline, contracts and document templates, and a full cashdesk for payments, transfers, and
 withdrawals. Available on Web, Windows, macOS, Linux, Android, and iOS, it gives construction
 companies a single tool to run their business from any device.
+
+It has 120 feature modules, 65 of them with separate desktop and mobile layouts, contract and
+installment-schedule PDFs, and five roles with 147 permissions. The web version runs on Firebase
+Hosting at [avera-construction.web.app](https://avera-construction.web.app), and Windows gets its own
+installer.
 
 _Take a look at the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.sokhtmon&hl=en)_
@@ -400,6 +429,18 @@ on Web, Windows, macOS, Android, and iOS, it lets store owners and staff manage 
 seamlessly whether they're behind a desktop, on a tablet, or on the move. The web experience is a
 separate app built with Nuxt + TypeScript, giving businesses a dedicated, fast interface for
 managing their operations from the browser.
+
+I built the Flutter app: about 400 feature modules covering sales, stock and supply, cash desks,
+profit and cash-flow reports, HR (KPI, payroll), production, approvals and an audit log. It works
+offline with Drift and syncs each entity separately, prints receipts over Bluetooth and TCP (ESC/POS),
+and ships as two white-label builds.
+
+**GPS tracking for field staff (Android).** Users with the Applicant role must turn on location and
+open a shift before they can work. During the shift the app tracks location in the background
+through a foreground service, drops inaccurate points, keeps them in an offline queue and uploads
+them in batches, and notifies the employee when they approach a customer's address. Managers see
+shifts and visited city zones. A public version of the module is in
+[gps_tracker](https://github.com/sb-dor/gps_tracker).
 
 _Take a look to the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.web&hl=ru)_
