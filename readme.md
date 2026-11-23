@@ -258,7 +258,7 @@ Hotel CRM, Construction CRM and Doru24 repositories I authored about 97% of the 
 I also wrote Laravel backends for POS Mobile, PizzaHouse.tj, Alshema and part of TajMix. The source
 code of these apps belongs to the company and is private; the sections below describe them.
 
-# Doru24 (Has't released yet)
+# Doru24 (not released yet)
 
 #### Flutter · Android and iOS · in development
 
