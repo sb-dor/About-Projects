@@ -506,6 +506,18 @@ perfect solution for stores and warehouses operations and taking business to the
 - **Reporting**
 - **Multi-Store Support**
 
+**My role.** This was my first project at Avera: I started it as an intern in 2022 and kept developing
+it until Avera POS Cloud replaced it. The system has four parts:
+
+- **Client app (Flutter, Android and iOS):** sales and returns, supplier invoices and payments,
+  warehouse transfers, stocktakes, assortments and price changes, discounts, a cash desk with
+  currency conversion, and reports with charts. It works offline with SQLite, scans barcodes,
+  prints receipts on Bluetooth ESC/POS printers, creates PDF invoices and tracks employees on shift
+  by city zones.
+- **Backend (Laravel):** a REST API with 239 routes and support for several stores.
+- **Admin app (Flutter) and its backend (Laravel):** used by Avera staff to give clients access:
+  client stores, servers and databases, tariffs and payments.
+
 _Take a look to the app
 on [Google Play Store](https://play.google.com/store/apps/details?id=tj.avera.posmobile)_
 on [App Store](https://apps.apple.com/tj/app/avera-pos/id6494738399)
