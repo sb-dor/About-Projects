@@ -253,9 +253,8 @@ on [Google Play Store](https://play.google.com/store/apps/details?id=com.bdaynab
 
 # My work at Avera Inc. (2022 – 2026)
 
-From February 2022 to November 2026 I was the main Flutter developer at Avera Inc. In the POS Cloud,
-Hotel CRM, Construction CRM and Doru24 repositories I authored about 97% of the commits (2,600+).
-I also wrote Laravel backends for POS Mobile, PizzaHouse.tj, Alshema and part of TajMix. The source
+From February 2022 to November 2026 I was the main Flutter developer at Avera Inc., building POS
+Cloud, Hotel CRM, Construction CRM and Doru24. I also wrote Laravel backends for POS Mobile, PizzaHouse.tj, Alshema and part of TajMix. The source
 code of these apps belongs to the company and is private; the sections below describe them.
 
 # Doru24 (not released yet)
