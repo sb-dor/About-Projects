@@ -174,6 +174,42 @@ on [GitHub](https://github.com/sb-dor/FAgent)_
 
 -----
 
+# Frustbite — audio for Dart & Flutter
+
+#### Own project · open source
+
+Dart · Flutter · Rust (FFI, WebAssembly)
+
+**Frustbite** reads audio from pure Dart: stream info, tags, cover art, waveforms and PCM. A Rust
+core does the decoding and is reached through FFI on Android, iOS, macOS, Linux and Windows and
+through WebAssembly on the web (dart2js and dart2wasm). No FFmpeg and no C codecs.
+
+## Features
+
+- Decodes MP3, AAC-LC (M4A, ADTS), ALAC, FLAC, Vorbis, Opus and WAV.
+- Peak or RMS waveforms with bounded memory, even for hour-long files.
+- Tags and embedded cover art.
+- `waveformAsync` and `decodeAsync` run on a background isolate.
+- Benchmarks (180 s stereo file): WAV decoding 9x faster than the pure-Dart `wav` package, MP3
+  decoding 83x faster than a pure-Dart decoder.
+- CI, a documentation site and a minimal Flutter showcase.
+
+Built with AI coding agents to my specs and rules; I review every change. The repository structure
+and release flow are adapted from PlugFox's pixer (MIT).
+
+_Take a look at the source code
+on [GitHub](https://github.com/sb-dor/frustbite) and the
+[documentation](https://sb-dor.github.io/frustbite/)_
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sb-dor/frustbite/main/docs/images/showcase-ios.png" width="250" alt="Frustbite showcase on iPhone" />
+  <img src="https://raw.githubusercontent.com/sb-dor/frustbite/main/packages/benchmark/chart.png" width="520" alt="Frustbite benchmark chart" />
+</p>
+
+-----
+
 # Packly — Travel Packing List
 
 #### Own project
